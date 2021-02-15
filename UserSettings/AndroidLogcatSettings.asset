@@ -1,9 +1,9 @@
 {
-    "m_SelectedDeviceId": "73QDU16A25010267",
+    "m_SelectedDeviceId": "ENU7N16109004975",
     "m_SelectedPackage": {
-        "deviceId": "73QDU16A25010267",
+        "deviceId": "ENU7N16109004975",
         "name": "com.DefaultCompany.LocMinimal",
-        "processId": 11170,
+        "processId": 15071,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -48,6 +48,24 @@
             "deviceId": "73QDU16A25010267",
             "name": "com.DefaultCompany.LocMinimal",
             "processId": 11170,
+            "exited": false
+        },
+        {
+            "deviceId": "73QDU16A25010267",
+            "name": "com.DefaultCompany.LocMinimal",
+            "processId": 11553,
+            "exited": false
+        },
+        {
+            "deviceId": "ENU7N16109004975",
+            "name": "com.DefaultCompany.LocMinimal",
+            "processId": 14831,
+            "exited": true
+        },
+        {
+            "deviceId": "ENU7N16109004975",
+            "name": "com.DefaultCompany.LocMinimal",
+            "processId": 15071,
             "exited": false
         }
     ],
