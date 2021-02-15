@@ -1,31 +1,13 @@
 {
     "m_SelectedDeviceId": "73QDU16A25010267",
     "m_SelectedPackage": {
-        "deviceId": "",
-        "name": "",
-        "processId": 0,
+        "deviceId": "73QDU16A25010267",
+        "name": "com.DefaultCompany.LocMinimal",
+        "processId": 11170,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
-        {
-            "deviceId": "73QDU16A25010267",
-            "name": "com.DefaultCompany.LocMinimal",
-            "processId": 8190,
-            "exited": true
-        },
-        {
-            "deviceId": "73QDU16A25010267",
-            "name": "com.huawei.android.launcher",
-            "processId": 2347,
-            "exited": false
-        },
-        {
-            "deviceId": "73QDU16A25010267",
-            "name": "com.DefaultCompany.LocMinimal",
-            "processId": 8669,
-            "exited": true
-        },
         {
             "deviceId": "73QDU16A25010267",
             "name": "com.DefaultCompany.LocMinimal",
@@ -43,6 +25,30 @@
             "name": "com.DefaultCompany.LocMinimal",
             "processId": 16082,
             "exited": true
+        },
+        {
+            "deviceId": "73QDU16A25010267",
+            "name": "com.DefaultCompany.LocMinimal",
+            "processId": 10093,
+            "exited": true
+        },
+        {
+            "deviceId": "73QDU16A25010267",
+            "name": "com.DefaultCompany.LocMinimal",
+            "processId": 10580,
+            "exited": true
+        },
+        {
+            "deviceId": "73QDU16A25010267",
+            "name": "com.DefaultCompany.LocMinimal",
+            "processId": 10825,
+            "exited": false
+        },
+        {
+            "deviceId": "73QDU16A25010267",
+            "name": "com.DefaultCompany.LocMinimal",
+            "processId": 11170,
+            "exited": false
         }
     ],
     "m_Tags": {
