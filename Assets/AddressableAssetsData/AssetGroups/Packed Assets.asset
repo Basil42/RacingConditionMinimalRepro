@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Packed Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Packed Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f4a1f13e0e8807c4085bcc08e81bb2eb
+  m_SerializeEntries:
+  - m_GUID: b0812c63c46638b4292ea54748593010
+    m_Address: Assets/Scenes/LocTest.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 102900000, guid: b0812c63c46638b4292ea54748593010, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: b0812c63c46638b4292ea54748593010, type: 3}
+  - m_GUID: 5a443b333a6ef064ab3f3a8dc0b18834
+    m_Address: Assets/Scenes/intermediateScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 102900000, guid: 5a443b333a6ef064ab3f3a8dc0b18834, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 5a443b333a6ef064ab3f3a8dc0b18834, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a6b8f49c831197344b3557a1bd9cabd1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d8e6a2f872679e34daff55afe0e6ed58, type: 2}
+    - {fileID: 11400000, guid: 7304a2f023cf61a4796eb7c5b7341c7e, type: 2}
